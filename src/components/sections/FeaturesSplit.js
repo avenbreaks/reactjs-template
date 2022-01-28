@@ -51,7 +51,7 @@ const FeaturesSplit = ({
 
   const sectionHeader = {
     title: 'Workflow that just works',
-    paragraph: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.'
+    paragraph: 'Those who are blinded by the desires do not see it, they are at fault for those who forsake their offices, soothes the soul, that is toil--always who have no bed at the weekend to be poisoned.'
   };
 
   return (
@@ -73,7 +73,7 @@ const FeaturesSplit = ({
                   Data-driven insights
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  Using data absolutely to make decisions The way that makes decisions completely based on data, is called data driven. With this method, marketers place certain data as the main factor or the only basis for making decisions.
                   </p>
               </div>
               <div className={
@@ -96,10 +96,10 @@ const FeaturesSplit = ({
                   Lightning fast workflow
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  Robust Workflow
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  Integrated reservoir characterization workflow is indeed a great poster tagline, where ideally everybody talks to another and the collaborated efforts contribute some solution to a reservoir problem.
                   </p>
               </div>
               <div className={
@@ -122,10 +122,10 @@ const FeaturesSplit = ({
                   Lightning fast workflow
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  Workflow Decentalized
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  particularly those regarding planning and decision making, are distributed or delegated away from a central, authoritative location or group.
                   </p>
               </div>
               <div className={
